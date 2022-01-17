@@ -3,7 +3,7 @@
 ### Phishing METAMASK page created in HTML + CHECKER METAMASK BALANCE
 
 <p align="center">
-  <img alt="Evilginx2 Logo" src="https://github.com/trewisscotch/Metamask-HTML/blob/main/media/metamask%20logo.png" height="350" />
+  <img alt="Metamask Logo" src="https://github.com/trewisscotch/Metamask-HTML/blob/main/media/metamask%20logo.png" height="350" />
   <p align="center">
   
  ## CHECKER
