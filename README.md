@@ -127,4 +127,4 @@ for info in vault_list:
 
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
 
-## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/TrewsiWork#
